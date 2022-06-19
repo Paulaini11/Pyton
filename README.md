@@ -1,9 +1,9 @@
 # TAREA 
-##UTILIZAR LA SIGUIENTE SECUENCIA 
+## UTILIZAR LA SIGUIENTE SECUENCIA 
 
 AAGGACCNGACATCCATCGCTGATGTCAATCCCCCGTGGATCGTAAGTCCGGGAGTAGGAGGAGGAAGGGTCGTCCCACAGTGCGAAGAGGCTTCTGACCTACTGACGGTACCTCCTCAGTGTCAGCCTATAGTCGGAGCTCGAGGGAGACTCGGTCCTCTGTAAAAGTCCGAATACCTTTGATGAAGGAGGTCTTCTATAGGACGGTAG
 
-###En esta actividad debe realizar lo siguiente: 
+### En esta actividad debe realizar lo siguiente: 
 
 1. Generar un Jupyter Notebook 
 2. Escribir el antecedente donde describa sobre el dogma central de la biología molecular. La transcripción, la dirección de la transcripción y los marcos de lectura.
